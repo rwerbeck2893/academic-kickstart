@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Indiana"
   date_start = "2013-11-01"
-  date_end = "2014-10-24"
+  date_end = "2014-10-21"
   description = """Served as Database administrator for campus school serving as portal for incoming freshman. Oversaw implementation of 3rd party solutions, database development and support."""
 
 +++
