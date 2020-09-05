@@ -18,19 +18,6 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Sr. Business Intelligence Developer
-  company = "Indiana University Department of Medicine"
-  company_url = ""
-  location = "Indiana"
-  date_start = "2014-10-24"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  * Report Development
-  * Application Testing
-  * Data Analysis
-  """
-[[experience]]
   title = "Web SpecialistProfessor"
   company ="IUPUI - University College"
   company_url = ""
