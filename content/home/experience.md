@@ -18,7 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Web SpecialistProfessor"
+  title = "Web Specialist"
+  company ="IUPUI - University College"
+  company_url = ""
+  location = "Indiana"
+  date_start = "2013-11-01"
+  date_end = "2014-10-21"
+  description = """Served as Database administrator for campus school serving as portal for incoming freshman. Oversaw implementation of 3rd party solutions, database development and support."""
+[[experience]]
+  title = "Web Specialist"
   company ="IUPUI - University College"
   company_url = ""
   location = "Indiana"
