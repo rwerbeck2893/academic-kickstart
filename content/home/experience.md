@@ -26,12 +26,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
   * Report Development
   * Application Testing
   * Data Analysis
   """
-
 [[experience]]
   title = "Web SpecialistProfessor"
   company ="IUPUI - University College"
