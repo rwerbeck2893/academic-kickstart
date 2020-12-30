@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Skills (Mastery)"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -27,10 +27,10 @@ subtitle = ""
   description = "Tableau (75%) | SSRS (90%) | D3 (10%)"  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "project-diagram"
   icon_pack = "fas"
-  name = "Project Management/Analysis"
-  description = "LEAN (75%) | Agile (75%)"  
+  name = "Project Management"
+  description = "LEAN (50%) | Agile (75%)"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
