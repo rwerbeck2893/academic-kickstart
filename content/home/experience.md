@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Recent Experience"
 subtitle = ""
 
 # Date format for experience
@@ -32,5 +32,13 @@ date_format = "Jan 2006"
   date_start = "2013-11-01"
   date_end = "2014-10-21"
   description = """Served as Database administrator for campus school serving as portal for incoming freshman. Oversaw implementation of 3rd party solutions, database development and support."""
+[[experience]]
+  title = "Report Writer"
+  company ="Nexsyis Collision"
+  company_url = ""
+  location = "Indiana"
+  date_start = "2012-08-01"
+  date_end = "2013-10-18"
+  description = """Primary work was to convert library of crystal reports into SQL Server Reporting Services files while also developing new reports for external customers and assisting with conversion of application to VB.Net code base."""
 
 +++
