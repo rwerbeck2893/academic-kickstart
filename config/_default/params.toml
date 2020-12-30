@@ -88,8 +88,8 @@ show_related = {docs = true, page = false, post = false, project = true, publica
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
-phone = ""
+#email = ""
+#phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -204,15 +204,15 @@ plugins_js  = []
 #  citation_style = "apa"
 
 # Configuration of project pages.
-[projects]
+#[projects]
   # Views for associated content.
   #   1: List
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+#  post_view = 2
+#  publication_view = 2
+#  talk_view = 2
 
 ############################
 ## Comments
