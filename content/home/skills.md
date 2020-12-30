@@ -17,20 +17,20 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fa"
-  name = "Python"
-  description = "Languages: Python (30%) | SQL (90%) | C# (30%)"
+  name = "Languages"
+  description = "Python (30%) | SQL (90%) | C# (40%)"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data Visualization"
-  description = "100%"  
+  description = "Tableau (75%) | SSRS (90%) | D3 (10%)"  
   
 [[feature]]
-  icon = "database"
-  icon_pack = "fa"
-  name = "Database Development"
-  description = "90%"
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Project Management/Analysis"
+  description = "LEAN (75%) | Agile (75%)"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
