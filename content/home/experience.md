@@ -23,7 +23,6 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Indiana"
   date_start = "2014-10-27"
-  date_end = """present"""
   description = """Oversee all business intelligence needs for the Department of Medicine, the largest department within the School of Medicine. Perform database development, report writing, ad hoc querying and general support to staff and faculty. """
 [[experience]]
   title = "Web Specialist"
