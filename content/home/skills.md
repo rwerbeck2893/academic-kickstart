@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "computer"
+  icon = "laptop-code"
   icon_pack = "fa"
   name = "Python"
   description = "Languages: Python (30%) | SQL (90%) | C# (30%)"
