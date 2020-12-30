@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "computer"
-  icon_pack = "custom"
+  icon_pack = "fa"
   name = "Python"
   description = "Languages: Python (30%) | SQL (90%) | C# (30%)"
   
