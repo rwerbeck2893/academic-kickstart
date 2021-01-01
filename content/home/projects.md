@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: Academic Work
     tag: Deep Learning
-  - name: Other
+  - name: Personal 
     tag: Demo
 
 design:
@@ -46,5 +46,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-Project 1
-Project 2
