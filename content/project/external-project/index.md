@@ -1,12 +1,12 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Data Visualization	
+summary: Examples of storytelling with data using Tableau, Python and other tools.
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
+external_link: https://public.tableau.com/profile/ryan.werbeck6905#!/
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
