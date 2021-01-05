@@ -64,7 +64,7 @@ email: ""
 #- Visitors
 ---
 
-With more than 10 years in Information Technology/Database roles, my focus has been on pulling insights from databases to answer unique or standing questions in business, finance and human resources subject areas and translate those into usable reports or visualizations.
+With more than 15 years in Information Technology/Database roles, my focus has been on pulling insights from databases to answer unique or standing questions in business, finance and human resources subject areas and translate those into usable reports or visualizations.
 
 Long-term goals include enhancing my current skills by obtaning a master's degree in Data Science, which is currently underway. 
 
