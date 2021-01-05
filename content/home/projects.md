@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Academic Work
+  - name: Personal
     tag: Deep Learning
-  - name: Personal 
-    tag: Demo
+  - name: Academic 
+    tag: Academic
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
