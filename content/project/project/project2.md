@@ -1,5 +1,5 @@
 ---
-title: Coding, Projects
+title: Python Projects
 summary: Currently academic samples showing Python samples and projects
 #tags:
 #- Deep Learning
