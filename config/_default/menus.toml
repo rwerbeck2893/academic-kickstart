@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Undergrad Research"
-  url = "research#ugprojects"
+  name = "Projects"
+  url = "project#samples"
   parent = "research"
   weight = 22
 
