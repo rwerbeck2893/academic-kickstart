@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Tomas Beuzen</title>
+    <link>https://www.tomasbeuzen.com/project/</link>
+      <atom:link href="https://www.tomasbeuzen.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tomasbeuzen.com/images/icon_hu711dd623cc2810410109350012a588da_14433_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://www.tomasbeuzen.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Open Online Python Course</title>
+      <link>https://www.tomasbeuzen.com/project/python-prog-for-data-science/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/python-prog-for-data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Packaging Book</title>
+      <link>https://www.tomasbeuzen.com/project/py-pkgs/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/py-pkgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coastal Book Co-author</title>
+      <link>https://www.tomasbeuzen.com/project/sandy-beach-morpho/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/sandy-beach-morpho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UBC Jupyter Days 2020</title>
+      <link>https://www.tomasbeuzen.com/project/jupyterdays/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/jupyterdays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Book Cookiecutter</title>
+      <link>https://www.tomasbeuzen.com/project/cookiecutter-jb/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/cookiecutter-jb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python Package Cookiecutter</title>
+      <link>https://www.tomasbeuzen.com/project/cookiecutter-mds/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/cookiecutter-mds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calorie Calculator Web App</title>
+      <link>https://www.tomasbeuzen.com/project/calocrunch/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/calocrunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Tutorials</title>
+      <link>https://www.tomasbeuzen.com/project/ml-tutorials/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/ml-tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science Animations</title>
+      <link>https://www.tomasbeuzen.com/project/animated-data/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/animated-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Machine Learning Course</title>
+      <link>https://www.tomasbeuzen.com/project/bait-509/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/bait-509/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Apple Watch faces</title>
+      <link>https://www.tomasbeuzen.com/project/apple-watch-faces/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/apple-watch-faces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pybeach Python package</title>
+      <link>https://www.tomasbeuzen.com/project/pybeach/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/pybeach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pywebcat Python package</title>
+      <link>https://www.tomasbeuzen.com/project/pywebcat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/pywebcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNSW Water Research Jersey Design</title>
+      <link>https://www.tomasbeuzen.com/project/unsw-jersey/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/unsw-jersey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>World Water Monitoring Day</title>
+      <link>https://www.tomasbeuzen.com/project/unsw-wwd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.tomasbeuzen.com/project/unsw-wwd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
