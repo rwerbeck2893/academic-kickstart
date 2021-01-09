@@ -9,6 +9,13 @@
   weight = 10
 
 [[main]]
+  name = "Undergrad Research"
+  url = "research#ugprojects"
+  parent = "research"
+  weight = 22
+
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
