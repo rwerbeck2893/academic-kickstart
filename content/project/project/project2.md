@@ -29,12 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-<!DOCTYPE html><html lang="en-us" >
-
-<head>
-<a href="https://www.calocrunch.com/" target="_blank" rel="noopener" class="card-image hover-overlay">
-      <img src="/project/calocrunch/featured_hudc8c51f28fdace680a043e6512509194_76409_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
-    </a>
 This is project 2
 
 
