@@ -7,10 +7,10 @@ image:
   caption: Photo by David Punzalan
   focal_point: Smart
 
-#tags:
-#- ug
-#- ugprojects
-#- projects
+tags:
+- ug
+- ugprojects
+- projects
 ---
 
 Text here
